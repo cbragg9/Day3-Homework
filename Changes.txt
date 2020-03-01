@@ -1,0 +1,6 @@
+Fixed #search-engine-optimization link
+Added comments to HTML/CSS
+Consolidated redundant CSS: 
+-.benefit-lead, -brand, -cost TO .benefit
+-SEO, ORM, SMM classes TO .content-left 
+Renamed tags to have more semantic meaning (e.g. header, nav, main, section, aside, figure, footer)
